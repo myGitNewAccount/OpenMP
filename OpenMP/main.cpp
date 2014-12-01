@@ -16,6 +16,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
+    cout<<"HELLO";
     const unsigned long numSteps=500000000;
     double step, PI25DT = 3.141592653589793238462643,pi=0, sum=0.0, x;
     
